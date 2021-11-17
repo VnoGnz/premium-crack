@@ -49,7 +49,7 @@ pkg install git
 pip install requests
 pip install mechanize
 pip install bs4
-git clone https://github.com/Dumai-991/premium
+git clone https://github.com/VnoGnz/premium-crack
 cd premium
 git pull
 ```
