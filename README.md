@@ -1,0 +1,2 @@
+# premium-crack
+Baru belajar
